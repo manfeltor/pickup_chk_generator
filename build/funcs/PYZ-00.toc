@@ -1,5 +1,5 @@
 ('C:\\Users\\ftorres\\OneDrive - INTRALOG ARGENTINA '
- 'S.A\\autopick\\build\\funcs\\PYZ-00.pyz',
+ 'S.A\\autopick\\rep\\pickup_chk_generator\\build\\funcs\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\ftorres\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PIL\\__init__.py',
    'PYMODULE'),
